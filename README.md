@@ -73,7 +73,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swaganymore)
 
 ---
-
-![Snake animation](https://github.com/djwcode/djwcode/blob/output/github-contribution-grid-snake-dark.svg)
-
+Soon...
 </div>
