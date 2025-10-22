@@ -65,7 +65,9 @@
 
 ---
 
-## 📫 Connect with mв
+## 📫 Connect with me
+
+<div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swaganymore)
 
